@@ -1,5 +1,5 @@
-plan
-code
+f1 plan
+ f2 code
 build
 test
 release
